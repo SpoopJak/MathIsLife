@@ -1,3 +1,3 @@
 function MyRun() {
-    open("https://spoopjak.github.io/MathIsLife/Home.html", "_self")
+    open("https://math-help.vercel.app/Home.html", "_self")
 }
